@@ -11,7 +11,7 @@
     <groupId>com.henu</groupId>
     <artifactId>springBootJenkins</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>springBootJenkins</name>
     <description>Demo project for Spring Boot</description>
     <properties>
